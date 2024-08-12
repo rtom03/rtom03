@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">Being open to work across diverse domains like React JS, React Native,Python data analysis, and data structures and algorithms not only broadens my skill set but also fuels my passion for continuous earning and growth. Embracing this versatility allows me to tackle complex problems with creativity and efficiency, while also stayingadaptable in an ever-evolving technological landscape.</h3>
+<h3 align="center">Being open to work across diverse domains like React JS, React Native,Python data analysis, and data structures and algorithms not only broadens my skill set but also fuels my passion for continuous earning and growth. Embracing this versatility allows me to tackle complex problems with creativity and efficiency, while also staying adaptable in an ever-evolving technological landscape.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtom03&label=Profile%20views&color=0e75b6&style=flat" alt="rtom03" /> </p>
 
-- 🔭 I’m currently working on [fintech](fintech-bay-omega.vercel.app)
+- 🔭 I’m currently working on [fintech](https://fintech-bay-omega.vercel.app)
 
 - 🌱 I’m currently learning **React Native**
 
