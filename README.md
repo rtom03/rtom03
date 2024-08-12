@@ -1,11 +1,7 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">I'm Tom, Being open to work across diverse domains like React JS, React Native,Python data analysis, and data structures and algorithms not only broadens my skill set but also fuels my passion for continuous earning and growth. Embracing this versatility allows me to tackle complex problems with creativity and efficiency, while also stayingadaptable in an ever-evolving technological landscape.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtom03&label=Profile%20views&color=0e75b6&style=flat" alt="rtom03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rtom03" alt="rtom03" /></a> </p>
 
 - 🔭 I’m currently working on [fintech](fintech-bay-omega.vercel.app)
 
