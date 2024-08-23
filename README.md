@@ -13,6 +13,4 @@
 
 </div>
 
- <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rtom03&" alt="rtom03" />
-  </p>
+ 
