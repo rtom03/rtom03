@@ -2,14 +2,14 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; background-color: black; padding: 20px;">
   
-  <p style="background-color: black;">
+  <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rtom03&show_icons=true&locale=en&layout=compact" alt="rtom03" />
   </p>
-  
-  <p style="background-color: black;">
+  <div style="background-color:black;">
+  <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rtom03&show_icons=true&locale=en" alt="rtom03" />
   </p>
-
+  </div>
 </div>
 
 <hr/>
