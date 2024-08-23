@@ -1,7 +1,7 @@
 <p align="left">
 </p>
 
-<div display="flex">
+<div display="flex" flex-direction="column">
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rtom03&show_icons=true&locale=en&layout=compact" alt="rtom03" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rtom03&" alt="rtom03" /></p>
