@@ -1,25 +1,16 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">Being open to work across diverse domains like React JS, React Native,Python data analysis, and data structures and algorithms not only broadens my skill set but also fuels my passion for continuous earning and growth. Embracing this versatility allows me to tackle complex problems with creativity and efficiency, while also staying adaptable in an ever-evolving technological landscape.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtom03&label=Profile%20views&color=0e75b6&style=flat" alt="rtom03" /> </p>
 
 - 🔭 I’m currently working on [fintech](https://fintech-bay-omega.vercel.app)
 
-- 🌱 I’m currently learning **React Native**
+
 
 - 👨‍💻 All of my projects are available at [https://portfolio-xbkq.vercel.app/](https://portfolio-xbkq.vercel.app/)
 
-- 💬 Ask me about **Android, IOs**
 
-- 📫 How to reach me **zuckm709@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/rtom03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rtom03" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
