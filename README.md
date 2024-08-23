@@ -1,5 +1,5 @@
 
-
+<h1>Hi there 👋</h1>
 <div style="display: flex; flex-direction: column; align-items: center;">
   
   <p>
@@ -12,5 +12,7 @@
 </p>
 
 </div>
+<hr/>
 
+<h1>I'm a Full Stack Software Engineer. I primarily develop with TypeScript, React, Nest.js, and MySQL.</h1>
  
