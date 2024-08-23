@@ -1,15 +1,3 @@
-<h1 align="center">Hi 👋, I'm Tom</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rtom03&label=Profile%20views&color=0e75b6&style=flat" alt="rtom03" /> </p>
-
-- 🔭 I’m currently working on [fintech](https://fintech-bay-omega.vercel.app)
-
-
-
-- 👨‍💻 All of my projects are available at [https://portfolio-xbkq.vercel.app/](https://portfolio-xbkq.vercel.app/)
-
-
-
 <p align="left">
 </p>
 
