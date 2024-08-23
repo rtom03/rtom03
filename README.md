@@ -14,5 +14,5 @@
 </div>
 <hr/>
 
-<h1>I'm a Full Stack Software Engineer. I primarily develop with TypeScript, React, Nest.js, and MySQL.</h1>
+<h3>I'm a Full Stack Software Engineer. I primarily develop with TypeScript, React, Nest.js, and MySQL.</h3>
  
