@@ -14,4 +14,4 @@
 
 <hr/>
 
-<h3 style="background-color: black; color: white; padding: 10px;">I'm a Full Stack Software Engineer. I primarily develop with TypeScript, ReactJs, Next.js,NodeJs,Django with Python,Postgres, MongoDB and MySQL.</h3>
+<h3 style="background-color: black; color: white; padding: 10px;">I'm a Full Stack Software Engineer. I primarily develop with TypeScript, ReactJs, Next.js, NodeJs, Django with Python, Postgres, MongoDB and MySQL.</h3>
