@@ -3,11 +3,15 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![TanStack%20Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rtom03&theme=tokyo-night)
-![GitHub Streak](https://streak-stats.demolab.com/?user=rtom03&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=rtom03&theme=tokyonight)
 <h1 style=" color: white; padding: 10px;">Hi there 👋</h1>
 
 <div style="display: flex; flex-direction: column; align-items: center; background-color: black; padding: 20px;">
