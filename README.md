@@ -1,7 +1,4 @@
-<h1 style=" color: white; padding: 10px;">Hi there 👋</h1>
 
-<div style="display: flex; flex-direction: column; align-items: center; background-color: black; padding: 20px;">
-  
 ### 🛠️ Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -9,8 +6,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rtom03&theme=tokyo-night)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rtom03&theme=tokyonight)
+<h1 style=" color: white; padding: 10px;">Hi there 👋</h1>
 
-  
+<div style="display: flex; flex-direction: column; align-items: center; background-color: black; padding: 20px;">
 </div>
 
 <hr/>
