@@ -14,4 +14,21 @@
 
 <hr/>
 
-<span style="background-color: black; color: white; padding: 10px;"> Hello, im awe by your visit to my page, can't wait to connect and build something fun together....My skills include HTML, CSS, JavaScript, Node.js, Python, C#, ASP.NET, and working with SQL/NoSQL databases. I also use Git for version control and have strong problem solving abilities to handle complex issues quickly and efficiently. I’m open and available to start and would be happy to contribute to the continued improvement or vice versa of your platform. From product distribution to maintenance, I will always strive to provide the best service to my clients & Employer and adhere to my contract. I can work full-time, hybrid and part-time while being flexible on time zone, and start immediately. You will be satisfied with my efforts and the best results. I look forward to working with you. Thank you.</span>
+<span style="background-color: black; color: white; padding: 10px;"> Hello 🖐️ — welcome to my little corner of the internet. Consider this a friendly console.log("Nice to meet you!").
+
+I’m a software engineer who enjoys turning coffee ☕ into well-typed solutions. My stack includes HTML, CSS, JavaScript, TypeScript (because any is not a lifestyle choice), Node.js, Python, C#, ASP.NET, and both collection databases (MongoDB) and relational databases (SQL / NoSQL / PostgreSQL). I use Git religiously—small commits, meaningful messages, and no force-pushes to main (The Pragmatic Programmer would approve).
+
+I strongly believe in a few pragmatic truths:
+
+DRY: If I see the same logic twice, I refactor before it multiplies.
+
+Tracer bullets: I build working slices early, because running code beats perfect diagrams.
+
+Broken windows: I fix small issues before they turn into “legacy code” by Friday.
+
+I enjoy solving complex problems efficiently—breaking them down, typing them safely (thanks, TypeScript), and shipping maintainable solutions instead of clever nightmares. From product development and distribution to long-term maintenance, I aim to leave every codebase cleaner than I found it.
+
+I’m open and available to start immediately, with flexibility for full-time, hybrid, or part-time work across time zones. If you’re looking for someone who values clean code, practical solutions, and a bit of humor in pull-request comments—you’ll be satisfied with the results.
+
+Looking forward to connecting and building something fun (and production-ready) together 🚀
+Thank you.</span>
