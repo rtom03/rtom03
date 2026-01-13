@@ -1,14 +1,15 @@
-<h1 style="background-color: black; color: white; padding: 10px;">Hi there 👋</h1>
+<h1 style=" color: white; padding: 10px;">Hi there 👋</h1>
 
 <div style="display: flex; flex-direction: column; align-items: center; background-color: black; padding: 20px;">
   
-  <div style="background-color:black; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rtom03&show_icons=true&locale=en&layout=compact" alt="rtom03" />
-  </div>
-  
-  <div style="background-color:black; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rtom03&show_icons=true&locale=en" alt="rtom03" />
-  </div>
+### 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
   
 </div>
 
