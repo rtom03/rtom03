@@ -36,5 +36,9 @@ I’m open and available to start immediately, with flexibility for full-time, h
 Looking forward to connecting and building something fun (and production-ready) together 🚀
 Thank you.</span>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rtom03&theme=react-dark&hide_border=true&area=true)
+## 📊 GitHub Activity
+
+![Contribution Graph](...)
+![GitHub Streak](...)
+![GitHub Stats](...)
 
