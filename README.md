@@ -38,5 +38,5 @@ Thank you.</span>
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtom03&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=rtom03&theme=tokyonight&hide_border=true)
 
