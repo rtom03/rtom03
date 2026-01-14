@@ -10,8 +10,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![TanStack%20Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rtom03&theme=tokyo-night)
-![GitHub Streak](https://streak-stats.demolab.com?user=rtom03)
 <h1 style=" color: white; padding: 10px;">Hi there 👋</h1>
 
 <div style="display: flex; flex-direction: column; align-items: center; background-color: black; padding: 20px;">
@@ -37,3 +35,6 @@ I’m open and available to start immediately, with flexibility for full-time, h
 
 Looking forward to connecting and building something fun (and production-ready) together 🚀
 Thank you.</span>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rtom03&theme=tokyo-night)
+
