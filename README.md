@@ -1,42 +1,101 @@
+# rtom03 — Project Collection
 
-### 🛠️ Tech Stack
+[![Repo Size](https://img.shields.io/github/repo-size/rtom03/food_stack)](https://github.com/rtom03/food_stack)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
+[![Issues](https://img.shields.io/github/issues/rtom03/food_stack)](https://github.com/rtom03/food_stack/issues)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![TanStack%20Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-<h1 style=" color: white; padding: 10px;">Hi there 👋</h1>
+A curated collection of small projects and experiments maintained by rtom03. This repository aggregates multiple projects for learning, demos, and tooling practice.
 
-<div style="display: flex; flex-direction: column; align-items: center; background-color: black; padding: 20px;">
-</div>
+Table of Contents
+- About
+- Projects
+  - Astronomical Simulater
+  - DSA (Data Structures & Algorithms)
+  - Chrome Extension
+- Features & Highlights
+- Quickstart
+- Contributing
+- Advanced README features
+- License
 
-<hr/>
+About
+-----
+This repo houses compact projects that showcase frontend, algorithmic, and browser-extension work. Each project is self-contained in its folder; the root README provides discoverability and quick links for maintainers and contributors.
 
-<span style="background-color: black; color: white; padding: 10px;"> Hello 🖐️ — welcome to my little corner of the internet. Consider this a friendly console.log("Nice to meet you!").
+Projects
+--------
+- Astronomical Simulater — ./astronomical-simulater
+  - A simulation/demonstration of celestial mechanics and orbital motion. Intended as an educational visualizer built with web technologies.
+- DSA — ./DSA
+  - Collection of data structure and algorithm implementations, puzzles, and benchmarks (good for interview practice and algorithmic learning).
+- Chrome Extension — ./chrome-extension
+  - A browser extension prototype demonstrating a small useful feature (productivity/privacy/tooling). Uses the WebExtensions API.
 
-I’m a software engineer who enjoys turning coffee ☕ into well-typed solutions. My stack includes HTML, CSS, JavaScript, TypeScript (because any is not a lifestyle choice), Node.js, Python, C#, ASP.NET, and both collection databases (MongoDB) and relational databases (SQL / NoSQL / PostgreSQL). I use Git religiously—small commits, meaningful messages, and no force-pushes to main (The Pragmatic Programmer would approve).
+Features & Highlights
+---------------------
+- Centralized README with badges and quick links to individual projects.
+- Suggested CI & checks (see Contributing) to keep builds and lints green.
+- Quickstart sections below for local development.
 
-I strongly believe in a few pragmatic truths:
+Quickstart
+----------
+General steps to get started locally for each project:
 
-DRY: If I see the same logic twice, I refactor before it multiplies.
+1. Clone the repo
 
-Tracer bullets: I build working slices early, because running code beats perfect diagrams.
+   git clone https://github.com/rtom03/food_stack.git
+   cd food_stack
 
-Broken windows: I fix small issues before they turn into “legacy code” by Friday.
+2. Astronomical Simulater (if web app)
 
-I enjoy solving complex problems efficiently—breaking them down, typing them safely (thanks, TypeScript), and shipping maintainable solutions instead of clever nightmares. From product development and distribution to long-term maintenance, I aim to leave every codebase cleaner than I found it.
+   - cd astronomical-simulater
+   - npm install
+   - npm run dev
 
-I’m open and available to start immediately, with flexibility for full-time, hybrid, or part-time work across time zones. If you’re looking for someone who values clean code, practical solutions, and a bit of humor in pull-request comments—you’ll be satisfied with the results.
+3. DSA (node / scripts)
 
-Looking forward to connecting and building something fun (and production-ready) together 🚀
-Thank you.</span>
+   - cd DSA
+   - npm install (or use provided language-specific instructions)
+   - run tests or specific scripts (e.g., npm test or python run_examples.py)
 
-## 📊 GitHub Activity
+4. Chrome Extension
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rtom03&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)
+   - cd chrome-extension
+   - follow README in that folder to load as an unpacked extension in Chrome/Edge (open chrome://extensions, enable Developer mode, Load unpacked)
 
+Note: Each subproject should include its own README with detailed, project-specific setup instructions. If any are missing, open an issue or a PR to add them.
+
+Contributing
+------------
+- Add issues or PRs for bugs, enhancements, or broken docs.
+- Suggested GitHub Actions CI for each project: install, lint, build, and test matrix (node versions as needed).
+- Enable Dependabot/renovate to keep dependencies updated automatically.
+- Suggested pre-commit hooks: husky + lint-staged to run formatters and linters on staged files.
+
+Advanced README features (suggested enhancements)
+-------------------------------------------------
+To make this README more beautiful and functional, consider adding:
+
+- Project badges (build, test coverage, npm version) for each subproject.
+- Auto-generated Table of Contents using a GitHub Action or markdown generator.
+- Live demo GIFs or embedded CodeSandbox/Vercel links for the Astronomical Simulater.
+- Architecture diagram or Mermaid flowcharts for complex logic (Mermaid is supported in GitHub Markdown):
+
+  ```mermaid
+  flowchart LR
+    A[User] --> B[Chrome Extension]
+    B --> C[Background Script]
+    C --> D[API]
+  ```
+
+- Interactive examples or small notebooks (e.g., Jupyter, Observable) for algorithms or visualizations.
+- A "Getting Help" section linking to issues, Discussions, or a small FAQ.
+
+What I changed / Next steps
+--------------------------
+- Added a root README to centralize project information and link to subprojects.
+- Next: add/verify READMEs inside each subproject (astronomical-simulater, DSA, chrome-extension). I can open PRs that add example READMEs inside each folder and create a GitHub Actions workflow to run lint/build steps—say if you want those, tell me which subproject to prioritize.
+
+License
+-------
+This repository is provided under the MIT License unless otherwise specified in subproject folders.
