@@ -24,8 +24,6 @@
 ![Redux Thunk](https://img.shields.io/badge/Redux%20Thunk-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Saga](https://img.shields.io/badge/Redux%20Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white)
 
-<h1 style=" color: white; padding: 10px;">Hi there 👋</h1>
-
 <div style="display: flex; flex-direction: column; align-items: center; background-color: black; padding: 20px;">
 </div>
 
